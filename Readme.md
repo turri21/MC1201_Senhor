@@ -1,3 +1,7 @@
+-=(MC1201_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p
+
 # [DVK MC1201](https://en.wikipedia.org/wiki/DVK) for [MiSTer Board](https://github.com/MiSTer-devel/Main_MiSTer/wiki).
 
 Port of DVK MC1201 (PDP-11 compatible Soviet computer) [DVK-fpga core by forth32](https://github.com/forth32/dvk-fpga).
